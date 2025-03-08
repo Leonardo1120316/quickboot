@@ -71,8 +71,9 @@
     <modules>
         <module>quickboot-admin</module>
         <module>quickboot-system</module>
+        <module>quickboot-common</module>
+        <module>quickboot-framework</module>
     </modules>
-
     <packaging>pom</packaging>
 
     <build>
